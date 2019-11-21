@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: normal;
+  }
+  h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+  }
+  p {
+    font-family: sans-serif;
+  }
+  ul {
+    line-height: 40px;
+    font-style: oblique;
+  }body{
+    background-color: rgb(184, 115, 115);
+    
+  }
